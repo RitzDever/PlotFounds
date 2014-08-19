@@ -1,0 +1,8 @@
+main: me.ritzdever.plots.plotfound.PlotFounds
+version: 1.0
+author: RitzDever
+name: PlotFound
+
+commands:
+  plotfound:
+    usage: /<command> [your@email]

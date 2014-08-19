@@ -1,0 +1,20 @@
+Settings:
+  Debug-Mode: false
+  Plots-Per-Page: 5
+  
+List-Layout:
+  - "&5============================"
+  - "&8Player: &6%player%"
+  - "&8Email: &6%email%"
+  - "&8Location: &6%loc%"
+  
+Plots:
+  Ritz:
+    Location:
+      World: world
+      X: 0
+      Y: 100.0
+      Z: 0
+      Yaw: 0
+      Pitch: 0
+    Email: ritzdever@gmail.com
